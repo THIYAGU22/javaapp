@@ -5,7 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.thiyagu</groupId>
-    <artifactId>java-app</artifactId>
+    <artifactId>docker-jenkins-java-integration</artifactId>
     <version>1.0-SNAPSHOT</version>
+
+    <build>
+        <finalName>docker-jenkins-java-integration</finalName>
+    </build>
     
 </project>
