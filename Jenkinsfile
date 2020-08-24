@@ -1,5 +1,8 @@
 node
 {
+  tools {
+    maven 'M3'
+  }
   stage("fetch")
   {
     git "https://github.com/THIYAGU22/javaapp.git"
